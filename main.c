@@ -3,6 +3,7 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Olá Mundo 20h25\n");
+    printf("Etec Turma DS\n");
     return 0;
 }
