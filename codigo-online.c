@@ -4,5 +4,6 @@ int main() {
   printf("Ola Mundo!\n");
   printf("Etec\n");
   printf("DS 2026\n");
+  printf("Testando o Editor online do GH\n");
   return 0;
 }
